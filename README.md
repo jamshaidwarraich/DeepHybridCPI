@@ -16,7 +16,7 @@
   `python preprocessing.py`  
 ```
 
-- Second, run `train.py`:
+- Second, run train.py using:
 
  🧍 For Human dataset:
   ```bash
@@ -30,5 +30,5 @@
 
 ## 📊 Datasets
 
-- 🌐 Public dataset used in this work: https://github.com/masashitsubaki/CPI_prediction 
+🌐 Public dataset used in this work: https://github.com/masashitsubaki/CPI_prediction 
 
