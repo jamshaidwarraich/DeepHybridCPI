@@ -11,19 +11,19 @@
 
 ### Train/test DeepHybridCPI:
   
-- First, run preprocessing.py using
+ First, run preprocessing.py using
 ```bash
   `python preprocessing.py`  
 ```
 
-- Second, run train.py using:
+ Second, run train.py using:
 
- 🧍 For Human dataset:
+- 🧍 For Human dataset:
   ```bash
   python train.py --dataset human --save_model
   ```
 
- 🐛 For C. elegans dataset:
+- 🐛 For C. elegans dataset:
   ```bash
   python train.py --dataset celegans --save_model
   ```
